@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Test Note Phone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Test Note Phone"
             }
           }
         ]
@@ -190,7 +190,7 @@
   },
   "active": "a52800f52ffd48a7",
   "lastOpenFiles": [
-    "Test Note Phone.md",
-    "Test.md"
+    "Test.md",
+    "Test Note Phone.md"
   ]
 }
