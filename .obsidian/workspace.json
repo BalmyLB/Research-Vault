@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Note Phone.md",
+                "file": "Recommendations on the Use of Telemedicine in Wound Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Note Phone"
+              "title": "Recommendations on the Use of Telemedicine in Wound Management"
             }
           }
         ]
@@ -188,9 +188,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "a52800f52ffd48a7",
+  "active": "9c57a0f50596a3a8",
   "lastOpenFiles": [
-    "Test.md",
-    "Test Note Phone.md"
+    "_private/test.md",
+    "_private",
+    "Defining Trombley-Brennan Terminal Tissue Injury With Long-Wave Infrared Thermography.md",
+    "Recommendations on the Use of Telemedicine in Wound Management.md",
+    "Test Note Phone.md",
+    "Test.md"
   ]
 }
