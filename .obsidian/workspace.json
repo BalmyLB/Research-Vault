@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Recommendations on the Use of Telemedicine in Wound Management"
             }
+          },
+          {
+            "id": "fa002704036083a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,13 +199,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "9c57a0f50596a3a8",
+  "active": "fa002704036083a9",
   "lastOpenFiles": [
+    "Recommendations on the Use of Telemedicine in Wound Management.md",
     "references.md",
     "_private/test.md",
     "_private",
     "Defining Trombley-Brennan Terminal Tissue Injury With Long-Wave Infrared Thermography.md",
-    "Recommendations on the Use of Telemedicine in Wound Management.md",
     "Test Note Phone.md",
     "Test.md"
   ]
